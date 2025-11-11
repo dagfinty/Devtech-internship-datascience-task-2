@@ -1,11 +1,4 @@
 📊 Data Science project 2
-☀️ Weather Data
-
-Analyzed temperature & humidity data
-
-Found average, hottest & coldest days
-
-Visualized trends with line charts
 
 🎬 Movies Data
 
